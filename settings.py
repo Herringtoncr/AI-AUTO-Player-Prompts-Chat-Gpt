@@ -2,7 +2,6 @@ import os
 
 # General settings
 MACRO_FOLDER = os.path.join(os.getcwd(), "macros")
-TEXT_FILES_FOLDER = os.path.join(os.getcwd(), "text_files")
 DEFAULT_DELAY = 0.5  # Default delay in seconds between actions
 
 # Logging settings
