@@ -1,0 +1,23 @@
+macros:
+  ParseHtml:
+    actions:
+      - press_key: "win+5"    # Open Chrome
+      - wait: 1
+      - press_key: "ctrl+2"    # Switch to beautifier tab
+      - wait: 1
+      - press_key: "f5"        # Refresh page
+      - wait: 7              # Wait for page load
+      - press_key: "ctrl+v"    # Paste HTML from file open from python
+      - mouse_click:
+          x: 1416
+          y: 612              # Click necessary position
+      - wait: 3
+      - press_key: "ctrl+a"    # Select all
+      - wait: 2
+      - press_key: "ctrl+c"    # Cut content
+      - wait: 1
+      - press_key: "win+5"    # Open Chrome
+      # It calls the Pyperclip and it adds at the name of the file _parsed.txt I dont know if its from here or the main.py
+      #- press_key: "ctrl+n"   # Open new file
+      #- press_key: "ctrl+v"   # Paste content
+      #- press_key: "ctrl+s"   # Save file
