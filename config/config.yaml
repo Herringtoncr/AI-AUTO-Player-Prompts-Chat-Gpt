@@ -1,11 +1,11 @@
 # config/config.yaml
 
-csv_path: csv/players2.csv
+csv_path: csv/players3.csv
 initial_wait: 1
 typing_interval: 0.05
-press_enter_after: true   # or false, if you don’t want an automatic ↵
+press_enter_after: false   # or false, if you don’t want an automatic ↵
 delay_between: 2
-test_macro_only: true
+test_macro_only: false
 
 macros:
   PromptMaster:
@@ -21,4 +21,51 @@ macros:
       - press_key: "ctrl+v"
       - wait: 1
       - press_key: "enter"
-      - wait: 120
+      - wait: 240
+      - press_key: "F12"
+      - wait: 2
+      - press_key: "ctrl+f"
+      - wait: 2
+      - write: "@thread-xl/thread:pt-header-height mt-1.5 flex flex-col text-sm pb-25"
+      - wait: 8
+      - press_key: "tab"
+      - wait: 1
+      - press_key: "tab"
+      - wait: 1
+      - press_key: "tab"
+      - wait: 1
+      - press_key: "enter"
+      - wait: 1
+      - press_key: "shift+F10"
+      - wait: 1
+      - press_key: "down"
+      - wait: 1
+      - press_key: "down"
+      - wait: 1
+      - press_key: "down"
+      - wait: 1
+      - press_key: "down"
+      - wait: 1
+      - press_key: "down"
+      - wait: 1
+      - press_key: "down"
+      - wait: 1
+      - press_key: "right"
+      - wait: 1
+      - press_key: "down"
+      - wait: 1
+      - press_key: "enter"
+      - wait: 4
+      - press_key: "F12"
+      - wait: 1             #deleting thread
+      - mouse_click:
+          x: 1864
+          y: 137              # Click necessary position
+      - wait: 1
+      - mouse_click:
+          x: 1784
+          y: 242              # Click necessary position
+      - wait: 1
+      - press_key: "enter"
+      - wait: 1
+      - press_key: "win+5"
