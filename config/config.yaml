@@ -1,6 +1,6 @@
 # config/config.yaml
 
-csv_path: csv/players.csv
+csv_path: csv/players2.csv
 initial_wait: 1
 typing_interval: 0.05
 press_enter_after: true   # or false, if you don’t want an automatic ↵
@@ -16,4 +16,9 @@ macros:
       - wait: 1
       - press_key: "ctrl+shift+O"
       - wait: 7
-      # you can now inject writes or {{prompt}} after this
+      - pyclip: "{{prompt}}"
+      - wait: 0.5
+      - press_key: "ctrl+v"
+      - wait: 1
+      - press_key: "enter"
+      - wait: 120
