@@ -18,7 +18,7 @@ SAVE_DIR = os.path.join(PROJECT_ROOT, config.get('output_folder', 'txt'))
 # Prompt template (overrideable via config.yaml under 'prompt_template')
 PROMPT_TEMPLATE = config.get('prompt_template', '''
 You are a CFB beat writer.
-TASK: Produce an ultra-condensed NCAAF résumé for [PLAYER NAME] – [TEAM] [POSITION].
+TASK: Produce an ultra-condensed NCAAF résumé for [FIRST] [LAST] – [TEAM] [POSITION].
 
 RULES
 
