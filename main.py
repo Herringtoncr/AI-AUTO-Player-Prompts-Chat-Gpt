@@ -23,51 +23,55 @@ os.makedirs(SAVE_DIR, exist_ok=True)
 
 # Prompt template (overrideable via config.yaml under 'prompt_template')
 PROMPT_TEMPLATE = config.get('prompt_template', '''
-You are a CFB beat writer.
+You are a CFB beat writer
 TASK: Produce an ultra-condensed NCAAF résumé for [FIRST] [LAST] – [TEAM] [POSITION].
 
 RULES
-
 Use tight bullet points (one line each).
 
-Begin every line with either:
-• an exact date in M-D-YY: format (e.g., 4-26-22:), or
+Start every line with either
+• an exact date in M-D-YY: format (e.g., 4-26-22:) or
 • a season tag using the last two digits (e.g., 22:).
 
 Include only high-value facts:
-• recruiting rank/commit year
-• starting/bench status & number of starts
+• recruiting rank / commit year
+• starting / bench status & number of starts
 • major injuries & return dates
-• transfer-portal moves (destination and documented reason – include a source link)
+• transfer-portal moves (destination and documented reason — include a source link)
 • awards (MVP, All-Conference, etc.)
-• current roster/depth-chart status & outlook
+• current roster / depth-chart status & outlook
 • practice-reps status (first-team or second-team) from current-year spring/fall workouts
 
-No fluff, adjectives, or analysis—just facts.
+No fluff, adjectives, or analysis — just facts.
 
 Append a supporting article link at the end of each bullet (in parentheses).
 
 Keep every bullet ≤ 25 words.
 
-End with four bullets:
-• [POS] room: – snapshot of immediate competition (use QB, WR, RB, OL, DL, LB, DB as appropriate)
+Finish with four bullets (same one-line style):
+• [POS] room: – snapshot of immediate competition (QB, WR, RB, OL, DL, LB, DB)
 • 2025 outlook: – one-line odds of starting or role expectation
 • Practice reps: – specify “mostly 1st-team” or “mostly 2nd-team” with source link
 • Eligibility: – years remaining (e.g., “3 seasons left through 2027”)
 
-Finish with a one-sentence Summary: (≤ 45 words) that:
-• begins with YL X (years of eligibility left, e.g., YL 3)
-• uses 2-digit years (e.g., 25, 24) and common team abbreviations (BAMA, PITT, UW, etc.)
-• retains star rating format (e.g., 4⭐)
-• states current-year practice status (1st-team or 2nd-team)
-• cites clear, sourced reason for any portal move (no hearsay)
-• contains no links
+Summary (≤ 45 words):
+• Begin with YL X (years of eligibility left)
+• Use 2-digit years (e.g., 25, 24) and common team abbreviations (BAMA, PITT, UW, etc.)
+• Retain star-rating format (e.g., 4⭐)
+• State current-year practice status (1st-team or 2nd-team)
+• Cite clear, sourced reason for any portal move (no hearsay)
+• No links in the Summary
 
-Excel single-cell format:
-• After the résumé, create a second block titled No-link Excel format (single-cell, pipe-delimited):.
-• Concatenate every bullet (and the Summary) in original order, remove all links, replace line breaks with " | ".
-• Keep pipes (|) only as separators; do not add extra spaces at either end.
-• Ensure the entire string fits in one spreadsheet cell.
+Excel single-cell format
+After the résumé, create a second block titled No-link Excel format (single-cell, pipe-delimited):
+
+NEW: Begin the string with the player’s full name (“First Last”) followed by a pipe (|).
+
+Concatenate every bullet and the Summary in original order, without links, replacing line breaks with |.
+
+Keep pipes (|) only as separators; no extra spaces at either end.
+
+Ensure the entire string fits in one spreadsheet cell.
 ''')
 
 
