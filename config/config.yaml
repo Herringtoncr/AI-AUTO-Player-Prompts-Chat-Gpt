@@ -21,7 +21,7 @@ macros:
       - press_key: "ctrl+v"
       - wait: 1
       - press_key: "enter"
-      - wait: 240
+      - wait: 180
       - press_key: "F12"
       - wait: 2
       - press_key: "ctrl+f"
