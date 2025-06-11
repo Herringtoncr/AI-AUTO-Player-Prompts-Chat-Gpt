@@ -1,9 +1,10 @@
 # config/config.yaml
 
 csv_path: csv/players3.csv
+output_folder: "C:\\Users\\Alien_Tator\\Deorovista Dropbox\\ChatGptPromptParser"
 initial_wait: 1
 typing_interval: 0.05
-press_enter_after: false   # or false, if you don’t want an automatic ↵
+press_enter_after: false
 delay_between: 2
 test_macro_only: false
 

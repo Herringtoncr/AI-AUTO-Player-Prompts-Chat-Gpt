@@ -12,8 +12,14 @@ CSV_REL_PATH = config.get('csv_path', 'csv/players3.csv')
 PROJECT_ROOT = os.path.dirname(__file__)
 CSV_FILE = os.path.join(PROJECT_ROOT, *CSV_REL_PATH.replace('\\', '/').split('/'))
 
-# Directory to save HTML/snippets (overrideable via config.yaml 'output_folder')
-SAVE_DIR = os.path.join(PROJECT_ROOT, config.get('output_folder', 'txt'))
+# Directory to save HTML/snippets (absolute or relative via config.yaml 'output_folder')
+user_folder = config.get('output_folder', 'txt')
+if os.path.isabs(user_folder):
+    SAVE_DIR = user_folder
+else:
+    SAVE_DIR = os.path.join(PROJECT_ROOT, user_folder)
+# ensure the folder exists
+os.makedirs(SAVE_DIR, exist_ok=True)
 
 # Prompt template (overrideable via config.yaml under 'prompt_template')
 PROMPT_TEMPLATE = config.get('prompt_template', '''
@@ -61,7 +67,7 @@ Excel single-cell format:
 • After the résumé, create a second block titled No-link Excel format (single-cell, pipe-delimited):.
 • Concatenate every bullet (and the Summary) in original order, remove all links, replace line breaks with " | ".
 • Keep pipes (|) only as separators; do not add extra spaces at either end.
-• Ensure the entire string fits in one spreadsheet cell.
+• Ensure the entire string fits in one spreadsheet cell.
 ''')
 
 
@@ -81,7 +87,6 @@ def read_players(csv_path):
 
 def save_player_html(file_name):
     """Retrieve clipboard content and save to SAVE_DIR/file_name."""
-    os.makedirs(SAVE_DIR, exist_ok=True)
     copied_text = pyperclip.paste()
     if not copied_text.strip():
         print(f"❌ Clipboard empty—skipping save for {file_name}")
@@ -117,7 +122,7 @@ def main():
             .replace('[POSITION]', pos)
         )
 
-        # Debug first prompt if enabled
+        # Debug prompt if enabled
         if idx == 1 and config.get('debug_prompt', False):
             print("🛑 DEBUG prompt:\n" + prompt)
             pdb.set_trace()

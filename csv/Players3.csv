@@ -1,25 +1,4 @@
 _ourLadsId,_name,_checkPlayer,_firstName,_lastName,_playerURL,_position,_positionType,_positionRank,_rankCount,_ourPosition,_jerseyNumber,_teamName,_teamConference,_experience,_originalTeam,_college,_draftStatus,_gamesStarted,_gamesPlayed,_gamesDidNotPlay,_sectionOrder,_positionSection,_positionOrder,_ourLadsAdd
-170723,"Martin, Maguire",FALSE,Maguire,Martin,https://www.ourlads.com/ncaa-football-depth-charts/player/maguire-martin/170723,QB,Offense,3,7,QB,15,Air Force,MAC,JR,,,,0,0,0,1,QUARTERBACK,1,FALSE
-163805,"Carson, Dylan",FALSE,Dylan,Carson,https://www.ourlads.com/ncaa-football-depth-charts/player/dylan-carson/163805,FB,Offense,1,1,FB,5,Air Force,MAC,SR,,,,0,0,0,2,RUNNING BACK,3,FALSE
-156928,"Harris, Cade",FALSE,Cade,Harris,https://www.ourlads.com/ncaa-football-depth-charts/player/cade-harris/156928,RB,Offense,1,7,RB,21,Air Force,MAC,SR,,,,0,0,0,2,RUNNING BACK,2,FALSE
-78209,"Gist, Terrence",FALSE,Terrence,Gist,https://www.ourlads.com/ncaa-football-depth-charts/player/terrence-gist/78209,FB,Offense,2,2,FB,12,Air Force,MAC,SR,,,,0,0,0,2,RUNNING BACK,3,FALSE
-165450,"Frew, Kade",FALSE,Kade,Frew,https://www.ourlads.com/ncaa-football-depth-charts/player/kade-frew/165450,RB,Offense,2,3,RB,8,Air Force,MAC,SR,,,,0,0,0,2,RUNNING BACK,2,FALSE
-170698,"Allen, Owen",FALSE,Owen,Allen,https://www.ourlads.com/ncaa-football-depth-charts/player/owen-allen/170698,FB,Offense,3,1,FB,22,Air Force,MAC,JR,,,,0,0,0,2,RUNNING BACK,3,FALSE
-166524,"Latham, Tylor",FALSE,Tylor,Latham,https://www.ourlads.com/ncaa-football-depth-charts/player/tylor-latham/166524,RB,Offense,3,8,RB,25,Air Force,MAC,SR,,,,0,0,0,2,RUNNING BACK,2,FALSE
-170716,"Hodges, Kemper",FALSE,Kemper,Hodges,https://www.ourlads.com/ncaa-football-depth-charts/player/kemper-hodges/170716,FB,Offense,4,3,FB,14,Air Force,MAC,JR,,,,0,0,0,2,RUNNING BACK,3,FALSE
-165441,"Cloud, Kaden",FALSE,Kaden,Cloud,https://www.ourlads.com/ncaa-football-depth-charts/player/kaden-cloud/165441,RB,Offense,4,2,RB,27,Air Force,MAC,SR,,,,0,0,0,2,RUNNING BACK,2,FALSE
-166525,"Roberson, Tre",FALSE,Tre,Roberson,https://www.ourlads.com/ncaa-football-depth-charts/player/tre-roberson/166525,WR-X,Offense,1,9,WR,10,Air Force,MAC,SR,,,,0,0,0,3,WR,4,FALSE
-165482,"Smith, Quin",FALSE,Quin,Smith,https://www.ourlads.com/ncaa-football-depth-charts/player/quin-smith/165482,WR-Z,Offense,1,10,WR,18,Air Force,MAC,SR,,,,0,0,0,3,WR,4,FALSE
-176059,"Broadway, Reign",FALSE,Reign,Broadway,https://www.ourlads.com/ncaa-football-depth-charts/player/reign-broadway/176059,WR-Z,Offense,2,5,WR,16,Air Force,MAC,SO,,,,0,0,0,3,WR,4,FALSE
-170745,"Chambers, Owen",FALSE,Owen,Chambers,https://www.ourlads.com/ncaa-football-depth-charts/player/owen-chambers/170745,WR-X,Offense,2,6,WR,20,Air Force,MAC,JR,,,,0,0,0,3,WR,4,FALSE
-165448,"Fleischmann, Bruin",FALSE,Bruin,Fleischmann,https://www.ourlads.com/ncaa-football-depth-charts/player/bruin-fleischmann/165448,TE,Offense,1,1,TE,88,Air Force,MAC,SR,,,,0,0,0,3.5,TE,5,FALSE
-165461,"Menefee, Parker",FALSE,Parker,Menefee,https://www.ourlads.com/ncaa-football-depth-charts/player/parker-menefee/165461,TE,Offense,2,3,TE,87,Air Force,MAC,SR,,,,0,0,0,3.5,TE,5,FALSE
-170719,"Kibbee, Simon",FALSE,Simon,Kibbee,https://www.ourlads.com/ncaa-football-depth-charts/player/simon-kibbee/170719,TE,Offense,3,2,TE,80,Air Force,MAC,JR,,,,0,0,0,3.5,TE,5,FALSE
-170724,"Murdock, Omari",FALSE,Omari,Murdock,https://www.ourlads.com/ncaa-football-depth-charts/player/omari-murdock/170724,TE,Offense,4,4,TE,86,Air Force,MAC,JR,,,,0,0,0,3.5,TE,5,FALSE
-165430,"Cooley, Costen",FALSE,Costen,Cooley,https://www.ourlads.com/ncaa-football-depth-charts/player/costen-cooley/165430,C,Offense,1,1,C,67,Air Force,MAC,SR,,,,0,0,0,4,OFFENSIVE LINE,10,FALSE
-170709,"Falk, Alec",FALSE,Alec,Falk,https://www.ourlads.com/ncaa-football-depth-charts/player/alec-falk/170709,LG,Offense,1,2,LG,75,Air Force,MAC,JR,,,,0,0,0,4,OFFENSIVE LINE,8,FALSE
-165473,"Sutulovich, Jace",FALSE,Jace,Sutulovich,https://www.ourlads.com/ncaa-football-depth-charts/player/jace-sutulovich/165473,RG,Offense,1,3,G,66,Air Force,MAC,SR,,,,0,0,0,4,OFFENSIVE LINE,9,FALSE
-165449,"Floysand, Samuel",FALSE,Samuel,Floysand,https://www.ourlads.com/ncaa-football-depth-charts/player/samuel-floysand/165449,RT,Offense,1,2,T,65,Air Force,MAC,SR,,,,0,0,0,4,OFFENSIVE LINE,7,FALSE
 165474,"Tate, Trevor",FALSE,Trevor,Tate,https://www.ourlads.com/ncaa-football-depth-charts/player/trevor-tate/165474,LT,Offense,1,4,LT,78,Air Force,MAC,SR,,,,0,0,0,4,OFFENSIVE LINE,6,FALSE
 170737,"Tarascio, TJ",FALSE,TJ,Tarascio,https://www.ourlads.com/ncaa-football-depth-charts/player/tj-tarascio/170737,LG,Offense,2,4,LG,58,Air Force,MAC,JR,,,,0,0,0,4,OFFENSIVE LINE,8,FALSE
 78202,"Burnett, Jack",FALSE,Jack,Burnett,https://www.ourlads.com/ncaa-football-depth-charts/player/jack-burnett/78202,C,Offense,2,2,C,62,Air Force,MAC,SR,,,,0,0,0,4,OFFENSIVE LINE,10,FALSE
@@ -101,80 +80,6 @@ _ourLadsId,_name,_checkPlayer,_firstName,_lastName,_playerURL,_position,_positio
 167220,"White, Catrell",FALSE,Catrell,White,https://www.ourlads.com/ncaa-football-depth-charts/player/catrell-white/167220,RCB,Defense,3,6,CB,21,Akron,MAC,RS SO,,,,0,0,0,7,DEFENSIVE BACKS,17,FALSE
 170500,"Hunter, Rodrick",FALSE,Rodrick,Hunter,https://www.ourlads.com/ncaa-football-depth-charts/player/rodrick-hunter/170500,SS,Defense,3,4,SS,13,Akron,MAC,RS FR,,,,0,0,0,7,DEFENSIVE BACKS,19,FALSE
 165729,"Somerville, Jamari",FALSE,Jamari,Somerville,https://www.ourlads.com/ncaa-football-depth-charts/player/jamari-somerville/165729,FS,Defense,3,7,FS,6,Akron,MAC,RS SO/TR,Transfer,James Madison,,0,0,0,7,DEFENSIVE BACKS,18,FALSE
-153061,"Simpson, Ty",FALSE,Ty,Simpson,https://www.ourlads.com/ncaa-football-depth-charts/player/ty-simpson/153061,QB,Offense,1,6,QB,15,Alabama,MAC,RS JR,,,,0,0,0,1,QUARTERBACK,1,FALSE
-167947,"Mack, Austin",FALSE,Austin,Mack,https://www.ourlads.com/ncaa-football-depth-charts/player/austin-mack/167947,QB,Offense,2,4,QB,10,Alabama,MAC,RS SO/TR,,,Washington,0,0,0,1,QUARTERBACK,1,FALSE
-174024,"Russell, Keelon",FALSE,Keelon,Russell,https://www.ourlads.com/ncaa-football-depth-charts/player/keelon-russell/174024,QB,Offense,3,5,QB,12,Alabama,MAC,FR,,,,0,0,0,1,QUARTERBACK,1,FALSE
-153600,"Miller, Jam",FALSE,Jam,Miller,https://www.ourlads.com/ncaa-football-depth-charts/player/jam-miller/153600,RB,Offense,1,8,RB,26,Alabama,MAC,SR,,,,0,0,0,2,RUNNING BACK,2,FALSE
-163451,"Young, Richard",FALSE,Richard,Young,https://www.ourlads.com/ncaa-football-depth-charts/player/richard-young/163451,RB,Offense,2,10,RB,9,Alabama,MAC,RS SO,,,,0,0,0,2,RUNNING BACK,2,FALSE
-149840,"Washington, Dre",FALSE,Dre,Washington,https://www.ourlads.com/ncaa-football-depth-charts/player/dre-washington/149840,RB,Offense,3,9,RB,20,Alabama,MAC,RS SR/TR,Transfer,UL Lafayette,,0,0,0,2,RUNNING BACK,2,FALSE
-167933,"Hill, Daniel",FALSE,Daniel,Hill,https://www.ourlads.com/ncaa-football-depth-charts/player/daniel-hill/167933,RB,Offense,4,7,RB,4,Alabama,MAC,SO,,,,0,0,0,2,RUNNING BACK,2,FALSE
-167924,"Bernard, Germie",FALSE,Germie,Bernard,https://www.ourlads.com/ncaa-football-depth-charts/player/germie-bernard/167924,WR-Z,Offense,1,2,WR,5,Alabama,MAC,SR/TR,,,Washington,0,0,0,3,WR,4,FALSE
-157217,"Horton, Isaiah",FALSE,Isaiah,Horton,https://www.ourlads.com/ncaa-football-depth-charts/player/isaiah-horton/157217,WR-X,Offense,1,6,WR,1,Alabama,MAC,RS JR/TR,Transfer,Miami Florida,,0,0,0,3,WR,4,FALSE
-170008,"Williams, Ryan",FALSE,Ryan,Williams,https://www.ourlads.com/ncaa-football-depth-charts/player/ryan-williams/170008,WR-H,Offense,1,9,WR,2,Alabama,MAC,SO,,,,0,0,0,3,WR,4,FALSE
-161392,"Adams, Cole",FALSE,Cole,Adams,https://www.ourlads.com/ncaa-football-depth-charts/player/cole-adams/161392,WR-H,Offense,2,1,WR,7,Alabama,MAC,RS SO,,,,0,0,0,3,WR,4,FALSE
-159842,"Hale, Jalen",FALSE,Jalen,Hale,https://www.ourlads.com/ncaa-football-depth-charts/player/jalen-hale/159842,WR-X,Offense,2,4,WR,8,Alabama,MAC,RS SO,,,,0,0,0,3,WR,4,FALSE
-167937,"Mbakwe, Jaylen",FALSE,Jaylen,Mbakwe,https://www.ourlads.com/ncaa-football-depth-charts/player/jaylen-mbakwe/167937,WR-Z,Offense,2,7,WR,3,Alabama,MAC,SO,,,,0,0,0,3,WR,4,FALSE
-174013,"Brooks, Lotzeir",FALSE,Lotzeir,Brooks,https://www.ourlads.com/ncaa-football-depth-charts/player/lotzeir-brooks/174013,WR-H,Offense,3,3,WR,17,Alabama,MAC,FR,,,,0,0,0,3,WR,4,FALSE
-170093,"Scott, Rico",FALSE,Rico,Scott,https://www.ourlads.com/ncaa-football-depth-charts/player/rico-scott/170093,WR-Z,Offense,3,8,WR,11,Alabama,MAC,RS FR,,,,0,0,0,3,WR,4,FALSE
-167932,"Hampton, Bubba",FALSE,Bubba,Hampton,https://www.ourlads.com/ncaa-football-depth-charts/player/bubba-hampton/167932,WR-H,Offense,4,5,WR,21,Alabama,MAC,RS FR,,,,0,0,0,3,WR,4,FALSE
-80430,"Cuevas, Josh",FALSE,Josh,Cuevas,https://www.ourlads.com/ncaa-football-depth-charts/player/josh-cuevas/80430,TE-Y,Offense,1,1,TE,80,Alabama,MAC,RS SR/TR,,,Washington,0,0,0,3.5,TE,5,FALSE
-156789,"Lewis, Danny",FALSE,Danny,Lewis,https://www.ourlads.com/ncaa-football-depth-charts/player/danny-lewis-jr./156789,TE-H,Offense,1,3,TE,87,Alabama,MAC,RS JR,,,,0,0,0,3.5,TE,5,FALSE
-171063,"Lindsey, Jay",FALSE,Jay,Lindsey,https://www.ourlads.com/ncaa-football-depth-charts/player/jay-lindsey/171063,TE-H,Offense,2,4,TE,88,Alabama,MAC,RS FR,,,,0,0,0,3.5,TE,5,FALSE
-175254,"Knudson, Peter",FALSE,Peter,Knudson,https://www.ourlads.com/ncaa-football-depth-charts/player/peter-knudson/175254,TE-H,Offense,3,2,TE,86,Alabama,MAC,RS SR/TR,,,,0,0,0,3.5,TE,5,FALSE
-174023,"Pritchett, Marshall",FALSE,Marshall,Pritchett,https://www.ourlads.com/ncaa-football-depth-charts/player/marshall-pritchett/174023,TE-Y,Offense,3,5,TE,18,Alabama,MAC,FR,,,,0,0,0,3.5,TE,5,FALSE
-153033,"Dewberry, Kam",FALSE,Kam,Dewberry,https://www.ourlads.com/ncaa-football-depth-charts/player/kam-dewberry/153033,LG,Offense,1,3,LG,71,Alabama,MAC,SR/TR,Transfer,Texas A&M,,0,0,0,4,OFFENSIVE LINE,8,FALSE
-150436,"Roberts, Jaeden",FALSE,Jaeden,Roberts,https://www.ourlads.com/ncaa-football-depth-charts/player/jaeden-roberts/150436,RG,Offense,1,6,G,77,Alabama,MAC,RS SR,,,,0,0,0,4,OFFENSIVE LINE,9,FALSE
-167926,"Brailsford, Parker",FALSE,Parker,Brailsford,https://www.ourlads.com/ncaa-football-depth-charts/player/parker-brailsford/167926,C,Offense,1,1,C,72,Alabama,MAC,RS JR/TR,,,Washington,0,0,0,4,OFFENSIVE LINE,10,FALSE
-161393,"Formby, Wilkin",FALSE,Wilkin,Formby,https://www.ourlads.com/ncaa-football-depth-charts/player/wilkin-formby/161393,RT,Offense,1,3,T,75,Alabama,MAC,RS SO,,,,0,0,0,4,OFFENSIVE LINE,7,FALSE
-167708,"Proctor, Kadyn",FALSE,Kadyn,Proctor,https://www.ourlads.com/ncaa-football-depth-charts/player/kadyn-proctor/167708,LT,Offense,1,7,LT,74,Alabama,MAC,JR,,,,0,0,0,4,OFFENSIVE LINE,6,FALSE
-159838,"Alinen, Olaus",FALSE,Olaus,Alinen,https://www.ourlads.com/ncaa-football-depth-charts/player/olaus-alinen/159838,LG,Offense,2,1,LG,73,Alabama,MAC,RS SO,,,,0,0,0,4,OFFENSIVE LINE,8,FALSE
-161396,"Montgomery, Roq",FALSE,Roq,Montgomery,https://www.ourlads.com/ncaa-football-depth-charts/player/roq-montgomery/161396,C,Offense,2,4,C,55,Alabama,MAC,RS SO,,,,0,0,0,4,OFFENSIVE LINE,10,FALSE
-167616,"VanDeMark, Geno",FALSE,Geno,VanDeMark,https://www.ourlads.com/ncaa-football-depth-charts/player/geno-vandemark/167616,RG,Offense,2,9,G,56,Alabama,MAC,RS SR/TR,,,Michigan State,0,0,0,4,OFFENSIVE LINE,9,FALSE
-166465,"Anugwom, Arkel",FALSE,Arkel,Anugwom,https://www.ourlads.com/ncaa-football-depth-charts/player/arkel-anugwom/166465,RT,Offense,2,1,T,76,Alabama,MAC,RS SO/TR,Transfer,Ball State,,0,0,0,4,OFFENSIVE LINE,7,FALSE
-167942,"Poe, Casey",FALSE,Casey,Poe,https://www.ourlads.com/ncaa-football-depth-charts/player/casey-poe/167942,LT,Offense,2,6,LT,50,Alabama,MAC,RS FR,,,,0,0,0,4,OFFENSIVE LINE,6,FALSE
-174029,"Carroll, Michael",FALSE,Michael,Carroll,https://www.ourlads.com/ncaa-football-depth-charts/player/michael-carroll/174029,RG,Offense,3,2,G,64,Alabama,MAC,FR,,,,0,0,0,4,OFFENSIVE LINE,9,FALSE
-167944,"Sanders, William",FALSE,William,Sanders,https://www.ourlads.com/ncaa-football-depth-charts/player/william-sanders/167944,LG,Offense,3,7,LG,70,Alabama,MAC,RS FR,,,,0,0,0,4,OFFENSIVE LINE,8,FALSE
-167934,"Ionata, Joseph",FALSE,Joseph,Ionata,https://www.ourlads.com/ncaa-football-depth-charts/player/joseph-ionata/167934,C,Offense,3,2,C,69,Alabama,MAC,RS FR,,,,0,0,0,4,OFFENSIVE LINE,10,FALSE
-174014,"DeBose, Micah",FALSE,Micah,DeBose,https://www.ourlads.com/ncaa-football-depth-charts/player/micah-debose/174014,RT,Offense,3,2,T,65,Alabama,MAC,FR,,,,0,0,0,4,OFFENSIVE LINE,7,FALSE
-174018,"Lloyd, Jackson",FALSE,Jackson,Lloyd,https://www.ourlads.com/ncaa-football-depth-charts/player/jackson-lloyd/174018,LT,Offense,3,5,LT,78,Alabama,MAC,FR,,,,0,0,0,4,OFFENSIVE LINE,6,FALSE
-165200,"Peterson, Davis",FALSE,Davis,Peterson,https://www.ourlads.com/ncaa-football-depth-charts/player/davis-peterson/165200,RG,Offense,4,5,G,62,Alabama,MAC,RS FR,,,,0,0,0,4,OFFENSIVE LINE,9,FALSE
-165204,"Smith, Mac",FALSE,Mac,Smith,https://www.ourlads.com/ncaa-football-depth-charts/player/mac-smith/165204,LG,Offense,4,8,LG,53,Alabama,MAC,RS SO,,,,0,0,0,4,OFFENSIVE LINE,8,FALSE
-165196,"Hickman, Baker",FALSE,Baker,Hickman,https://www.ourlads.com/ncaa-football-depth-charts/player/baker-hickman/165196,LT,Offense,4,4,LT,66,Alabama,MAC,RS SO,,,,0,0,0,4,OFFENSIVE LINE,6,FALSE
-150437,"Roten, Graham",FALSE,Graham,Roten,https://www.ourlads.com/ncaa-football-depth-charts/player/graham-roten/150437,RT,Offense,4,8,T,61,Alabama,MAC,RS SR,,,,0,0,0,4,OFFENSIVE LINE,7,FALSE
-167928,"Overton, LT",FALSE,LT,Overton,https://www.ourlads.com/ncaa-football-depth-charts/player/lt-overton/167928,BAN,Defense,1,2,DE,22,Alabama,MAC,SR/TR,,,Texas A&M,0,0,0,5,DEFENSIVE LINE,12,FALSE
-150591,"Keenan, Tim",FALSE,Tim,Keenan,https://www.ourlads.com/ncaa-football-depth-charts/player/tim-keenan-iii/150591,NT,Defense,1,4,NT,96,Alabama,MAC,RS SR,,,,0,0,0,5,DEFENSIVE LINE,14,FALSE
-159843,"Smith, James",FALSE,James,Smith,https://www.ourlads.com/ncaa-football-depth-charts/player/james-smith/159843,DT,Defense,1,6,DT,23,Alabama,MAC,JR,,,,0,0,0,5,DEFENSIVE LINE,13,FALSE
-167929,"Beaman, Jeremiah",FALSE,Jeremiah,Beaman,https://www.ourlads.com/ncaa-football-depth-charts/player/jeremiah-beaman/167929,NT,Defense,2,1,NT,92,Alabama,MAC,RS FR,,,,0,0,0,5,DEFENSIVE LINE,14,FALSE
-161399,"Hill, Edric",FALSE,Edric,Hill,https://www.ourlads.com/ncaa-football-depth-charts/player/edric-hill/161399,DT,Defense,2,3,DT,94,Alabama,MAC,RS SO,,,,0,0,0,5,DEFENSIVE LINE,13,FALSE
-162427,"Collins, Kelby",FALSE,Kelby,Collins,https://www.ourlads.com/ncaa-football-depth-charts/player/kelby-collins/162427,BAN,Defense,2,3,DE,17,Alabama,MAC,JR/TR,Transfer,Florida,,0,0,0,5,DEFENSIVE LINE,12,FALSE
-159844,"Renaud, Jordan",FALSE,Jordan,Renaud,https://www.ourlads.com/ncaa-football-depth-charts/player/jordan-renaud/159844,BAN,Defense,3,3,DE,11,Alabama,MAC,RS SO,,,,0,0,0,5,DEFENSIVE LINE,12,FALSE
-167946,"Faga, Isaia",FALSE,Isaia,Faga,https://www.ourlads.com/ncaa-football-depth-charts/player/isaia-faga/167946,NT,Defense,3,2,NT,88,Alabama,MAC,RS FR,,,,0,0,0,5,DEFENSIVE LINE,14,FALSE
-170096,"Mboumoua, Steve",FALSE,Steve,Mboumoua,https://www.ourlads.com/ncaa-football-depth-charts/player/steve-bolo-mboumoua/170096,DT,Defense,3,5,DT,25,Alabama,MAC,Bolo SO/TR,,,,0,0,0,5,DEFENSIVE LINE,13,FALSE
-159853,"Keeley, Keon",FALSE,Keon,Keeley,https://www.ourlads.com/ncaa-football-depth-charts/player/keon-keeley/159853,BAN,Defense,4,1,DE,31,Alabama,MAC,RS SO,,,,0,0,0,5,DEFENSIVE LINE,12,FALSE
-159845,"Jefferson, Justin",FALSE,Justin,Jefferson,https://www.ourlads.com/ncaa-football-depth-charts/player/justin-jefferson/159845,MLB,Defense,1,2,MLB,10,Alabama,MAC,SR/TR,,,,0,0,0,6,LINEBACKERS,16,FALSE
-146667,"Lawson, Deontae",FALSE,Deontae,Lawson,https://www.ourlads.com/ncaa-football-depth-charts/player/deontae-lawson/146667,STING,Defense,1,5,ILB,0,Alabama,MAC,RS SR,,,,0,0,0,6,LINEBACKERS,16,FALSE
-159847,"Russaw, Qua",FALSE,Qua,Russaw,https://www.ourlads.com/ncaa-football-depth-charts/player/qua-russaw/159847,WOLF,Defense,1,7,OLB,4,Alabama,MAC,RS SO,,,,0,0,0,6,LINEBACKERS,16,FALSE
-76020,"HillGreen, Nikhai",FALSE,Nikhai,HillGreen,https://www.ourlads.com/ncaa-football-depth-charts/player/nikhai-hill-green/76020,MLB,Defense,2,1,MLB,41,Alabama,MAC,GR/TR,Transfer,Colorado,Charlotte,0,0,0,6,LINEBACKERS,16,FALSE
-167935,"Jones, Cayden",FALSE,Cayden,Jones,https://www.ourlads.com/ncaa-football-depth-charts/player/cayden-jones/167935,STING,Defense,2,4,ILB,30,Alabama,MAC,SO,,,,0,0,0,6,LINEBACKERS,16,FALSE
-140050,"Latham, JahMarien",FALSE,JahMarien,Latham,https://www.ourlads.com/ncaa-football-depth-charts/player/jah-marien-latham/140050,WOLF,Defense,2,5,OLB,20,Alabama,MAC,GR,,,,0,0,0,6,LINEBACKERS,16,FALSE
-174032,"Johnson, Duke",FALSE,Duke,Johnson,https://www.ourlads.com/ncaa-football-depth-charts/player/duke-johnson-ii/174032,MLB,Defense,3,3,MLB,15,Alabama,MAC,FR,,,,0,0,0,6,LINEBACKERS,16,FALSE
-171066,"Reese, QB",FALSE,QB,Reese,https://www.ourlads.com/ncaa-football-depth-charts/player/qb-reese/171066,STING,Defense,3,7,ILB,36,Alabama,MAC,RS FR,,,,0,0,0,6,LINEBACKERS,16,FALSE
-159846,"Pierre, Yhonzae",FALSE,Yhonzae,Pierre,https://www.ourlads.com/ncaa-football-depth-charts/player/yhonzae-pierre/159846,WOLF,Defense,3,6,OLB,42,Alabama,MAC,RS SO,,,,0,0,0,6,LINEBACKERS,16,FALSE
-174022,"Metz, Luke",FALSE,Luke,Metz,https://www.ourlads.com/ncaa-football-depth-charts/player/luke-metz/174022,STING,Defense,4,6,ILB,26,Alabama,MAC,FR,,,,0,0,0,6,LINEBACKERS,16,FALSE
-174025,"Sanders, Abduall",FALSE,Abduall,Sanders,https://www.ourlads.com/ncaa-football-depth-charts/player/abduall-sanders-jr./174025,MLB,Defense,4,8,MLB,35,Alabama,MAC,FR,,,,0,0,0,6,LINEBACKERS,16,FALSE
-72749,"Henry, Fatutoa",FALSE,Fatutoa,Henry,https://www.ourlads.com/ncaa-football-depth-charts/player/fatutoa-henry/72749,WOLF,Defense,4,4,OLB,14,Alabama,MAC,RS JR/TR,,,,0,0,0,6,LINEBACKERS,16,FALSE
-167930,"Brown, Zabien",FALSE,Zabien,Brown,https://www.ourlads.com/ncaa-football-depth-charts/player/zabien-brown/167930,RCB,Defense,1,1,CB,2,Alabama,MAC,SO,,,,0,0,0,7,DEFENSIVE BACKS,17,FALSE
-167927,"Jackson, Domani",FALSE,Domani,Jackson,https://www.ourlads.com/ncaa-football-depth-charts/player/domani-jackson/167927,LCB,Defense,1,3,CB,1,Alabama,MAC,SR/TR,,,USC,0,0,0,7,DEFENSIVE BACKS,17,FALSE
-149368,"Jones, DaShawn",FALSE,DaShawn,Jones,https://www.ourlads.com/ncaa-football-depth-charts/player/dashawn-jones/149368,HUSKY,Defense,1,4,CB/S,7,Alabama,MAC,RS SR/TR,,,Wake Forest,0,0,0,7,DEFENSIVE BACKS,17,FALSE
-159849,"Hubbard, Bray",FALSE,Bray,Hubbard,https://www.ourlads.com/ncaa-football-depth-charts/player/bray-hubbard/159849,SS,Defense,1,2,SS,18,Alabama,MAC,JR,,,,0,0,0,7,DEFENSIVE BACKS,19,FALSE
-80624,"Sabb, Keon",FALSE,Keon,Sabb,https://www.ourlads.com/ncaa-football-depth-charts/player/keon-sabb/80624,FS,Defense,1,6,FS,3,Alabama,MAC,RS JR/TR,,,Michigan,0,0,0,7,DEFENSIVE BACKS,18,FALSE
-80170,"Calhoun, Cam",FALSE,Cam,Calhoun,https://www.ourlads.com/ncaa-football-depth-charts/player/cam-calhoun/80170,LCB,Defense,2,2,CB,9,Alabama,MAC,RS SO/TR,Transfer,Utah,Michigan,0,0,0,7,DEFENSIVE BACKS,17,FALSE
-174017,"Lee, Dijon",FALSE,Dijon,Lee,https://www.ourlads.com/ncaa-football-depth-charts/player/dijon-lee-jr./174017,RCB,Defense,2,5,CB,5,Alabama,MAC,FR,,,,0,0,0,7,DEFENSIVE BACKS,17,FALSE
-167936,"Kirkpatrick, Dre",FALSE,Dre,Kirkpatrick,https://www.ourlads.com/ncaa-football-depth-charts/player/dre-kirkpatrick-jr./167936,SS,Defense,2,3,SS,21,Alabama,MAC,SO,,,,0,0,0,7,DEFENSIVE BACKS,19,FALSE
-167938,"Mincey, Zavier",FALSE,Zavier,Mincey,https://www.ourlads.com/ncaa-football-depth-charts/player/zavier-mincey/167938,FS,Defense,2,4,FS,12,Alabama,MAC,SO,,,,0,0,0,7,DEFENSIVE BACKS,18,FALSE
-167939,"Morgan, Red",FALSE,Red,Morgan,https://www.ourlads.com/ncaa-football-depth-charts/player/red-morgan/167939,HUSKY,Defense,2,5,CB/S,16,Alabama,MAC,SO,,,,0,0,0,7,DEFENSIVE BACKS,17,FALSE
-161558,"Howard, Kameron",FALSE,Kameron,Howard,https://www.ourlads.com/ncaa-football-depth-charts/player/kameron-howard/161558,FS,Defense,3,1,FS,6,Alabama,MAC,RS SO/TR,,,Charlotte,0,0,0,7,DEFENSIVE BACKS,18,FALSE
-174027,"Taylor, Ivan",FALSE,Ivan,Taylor,https://www.ourlads.com/ncaa-football-depth-charts/player/ivan-taylor/174027,SS,Defense,3,7,SS,13,Alabama,MAC,FR,,,,0,0,0,7,DEFENSIVE BACKS,19,FALSE
 162543,"Wiles, Billy",FALSE,Billy,Wiles,https://www.ourlads.com/ncaa-football-depth-charts/player/billy-wiles/162543,QB,Offense,3,4,QB,9,Appalachian State,MAC,RS SR/TR,,,,0,0,0,1,QUARTERBACK,1,FALSE
 169089,"Wilson, Matthew",FALSE,Matthew,Wilson,https://www.ourlads.com/ncaa-football-depth-charts/player/matthew-wilson/169089,QB,Offense,4,5,QB,6,Appalachian State,MAC,RS FR,,,,0,0,0,1,QUARTERBACK,1,FALSE
 153613,"Roberts, Kanye",FALSE,Kanye,Roberts,https://www.ourlads.com/ncaa-football-depth-charts/player/kanye-roberts/153613,RB,Offense,1,7,RB,14,Appalachian State,MAC,RS JR,,,,0,0,0,2,RUNNING BACK,2,FALSE
@@ -4994,81 +4899,6 @@ _ourLadsId,_name,_checkPlayer,_firstName,_lastName,_playerURL,_position,_positio
 167654,"BelgraveShorter, Antoine",FALSE,Antoine,BelgraveShorter,https://www.ourlads.com/ncaa-football-depth-charts/player/antoine-belgrave-shorter/167654,SS,Defense,3,1,SS,3,Penn State,AAC,RS FR,,,,0,0,0,7,DEFENSIVE BACKS,19,FALSE
 159875,"Payne, Lamont",FALSE,Lamont,Payne,https://www.ourlads.com/ncaa-football-depth-charts/player/lamont-payne-jr./159875,FS,Defense,3,5,FS,27,Penn State,AAC,RS SO,,,,0,0,0,7,DEFENSIVE BACKS,18,FALSE
 174007,"Thomas, Braz",FALSE,Braz,Thomas,https://www.ourlads.com/ncaa-football-depth-charts/player/braz-thomas/174007,SS,Defense,4,6,SS,14,Penn State,AAC,FR,,,,0,0,0,7,DEFENSIVE BACKS,19,FALSE
-168549,"Holstein, Eli",FALSE,Eli,Holstein,https://www.ourlads.com/ncaa-football-depth-charts/player/eli-holstein/168549,QB,Offense,1,3,QB,10,Pittsburgh,AAC,RS SO/TR,,,Alabama,0,0,0,1,QUARTERBACK,1,FALSE
-168558,"Dugger, Julian",FALSE,Julian,Dugger,https://www.ourlads.com/ncaa-football-depth-charts/player/julian-dugger/168558,QB,Offense,2,1,QB,12,Pittsburgh,AAC,RS FR,,,,0,0,0,1,QUARTERBACK,1,FALSE
-174732,"Heintschel, Mason",FALSE,Mason,Heintschel,https://www.ourlads.com/ncaa-football-depth-charts/player/mason-heintschel/174732,QB,Offense,3,2,QB,6,Pittsburgh,AAC,FR,,,,0,0,0,1,QUARTERBACK,1,FALSE
-162038,"Lynch, David",FALSE,David,Lynch,https://www.ourlads.com/ncaa-football-depth-charts/player/david-lynch/162038,QB,Offense,4,4,QB,16,Pittsburgh,AAC,RS SO,,,,0,0,0,1,QUARTERBACK,1,FALSE
-168565,"Reid, Desmond",FALSE,Desmond,Reid,https://www.ourlads.com/ncaa-football-depth-charts/player/desmond-reid/168565,RB,Offense,1,3,RB,0,Pittsburgh,AAC,SR/TR,,,Western Carolina,0,0,0,2,RUNNING BACK,2,FALSE
-176295,"Cook, Justin",FALSE,Justin,Cook,https://www.ourlads.com/ncaa-football-depth-charts/player/justin-cook/176295,RB,Offense,2,1,RB,28,Pittsburgh,AAC,SR/TR,,,,0,0,0,2,RUNNING BACK,2,FALSE
-168560,"Goff, Juelz",FALSE,Juelz,Goff,https://www.ourlads.com/ncaa-football-depth-charts/player/juelz-goff/168560,RB,Offense,3,2,RB,26,Pittsburgh,AAC,RS FR,,,,0,0,0,2,RUNNING BACK,2,FALSE
-176294,"Turner, JaKyrian",FALSE,JaKyrian,Turner,https://www.ourlads.com/ncaa-football-depth-charts/player/jakyrian-turner/176294,RB,Offense,4,4,RB,25,Pittsburgh,AAC,FR,,,,0,0,0,2,RUNNING BACK,2,FALSE
-164516,"Johnson, Kenny",FALSE,Kenny,Johnson,https://www.ourlads.com/ncaa-football-depth-charts/player/kenny-johnson/164516,WR-X,Offense,1,14,WR,2,Pittsburgh,AAC,JR,,,,0,0,0,3,WR,4,FALSE
-168561,"Lee, Censere",FALSE,Censere,Lee,https://www.ourlads.com/ncaa-football-depth-charts/player/censere-lee/168561,WR-Z,Offense,1,16,WR,11,Pittsburgh,AAC,SR/TR,,,Western Carolina,0,0,0,3,WR,4,FALSE
-168555,"Williams, Raphael",FALSE,Raphael,Williams,https://www.ourlads.com/ncaa-football-depth-charts/player/raphael-williams-jr./168555,WR-SL,Offense,1,19,WR,5,Pittsburgh,AAC,RS SR/TR,,,San Diego State,0,0,0,3,WR,4,FALSE
-164515,"FowlerEl, Zion",FALSE,Zion,FowlerEl,https://www.ourlads.com/ncaa-football-depth-charts/player/zion-fowler-el/164515,WR-X,Offense,2,12,WR,23,Pittsburgh,AAC,RS SO,,,,0,0,0,3,WR,4,FALSE
-160728,"Hicks, Cataurus",FALSE,Cataurus,Hicks,https://www.ourlads.com/ncaa-football-depth-charts/player/cataurus-hicks/160728,WR-Z,Offense,2,13,WR,81,Pittsburgh,AAC,RS SO/TR,Transfer,Louisville,,0,0,0,3,WR,4,FALSE
-172871,"Robinson, Tyreek",FALSE,Tyreek,Robinson,https://www.ourlads.com/ncaa-football-depth-charts/player/tyreek-robinson/172871,WR-SL,Offense,2,17,WR,24,Pittsburgh,AAC,RS FR,,,,0,0,0,3,WR,4,FALSE
-174733,"Kinsler, Tony",FALSE,Tony,Kinsler,https://www.ourlads.com/ncaa-football-depth-charts/player/tony-kinsler/174733,WR-SL,Offense,3,15,WR,17,Pittsburgh,AAC,FR,,,,0,0,0,3,WR,4,FALSE
-153406,"Spann, Deuce",FALSE,Deuce,Spann,https://www.ourlads.com/ncaa-football-depth-charts/player/deuce-spann/153406,WR-Z,Offense,3,18,WR,22,Pittsburgh,AAC,RS SR/TR,Transfer,Florida State,Florida State,0,0,0,3,WR,4,FALSE
-174734,"Yates, Bryce",FALSE,Bryce,Yates,https://www.ourlads.com/ncaa-football-depth-charts/player/bryce-yates/174734,WR-X,Offense,3,20,WR,80,Pittsburgh,AAC,FR,,,,0,0,0,3,WR,4,FALSE
-168553,"Overman, Jake",FALSE,Jake,Overman,https://www.ourlads.com/ncaa-football-depth-charts/player/jake-overman/168553,TE,Offense,1,10,TE,87,Pittsburgh,AAC,RS SR/TR,,,Oregon State,0,0,0,3.5,TE,5,FALSE
-172875,"Thomas, Malachi",FALSE,Malachi,Thomas,https://www.ourlads.com/ncaa-football-depth-charts/player/malachi-thomas/172875,TE,Offense,2,11,TE,82,Pittsburgh,AAC,SO,,,,0,0,0,3.5,TE,5,FALSE
-176290,"Hunt, Max",FALSE,Max,Hunt,https://www.ourlads.com/ncaa-football-depth-charts/player/max-hunt/176290,TE,Offense,3,9,TE,86,Pittsburgh,AAC,FR,,,,0,0,0,3.5,TE,5,FALSE
-172866,"Brown, Truitt",FALSE,Truitt,Brown,https://www.ourlads.com/ncaa-football-depth-charts/player/truitt-brown/172866,TE,Offense,4,8,TE,32,Pittsburgh,AAC,RS FR,,,,0,0,0,3.5,TE,5,FALSE
-174735,"Gouveia, Keith",FALSE,Keith,Gouveia,https://www.ourlads.com/ncaa-football-depth-charts/player/keith-gouveia/174735,LG,Offense,1,1,LG,66,Pittsburgh,AAC,RS SR/TR,,,,0,0,0,4,OFFENSIVE LINE,8,FALSE
-162046,"Williams, BJ",FALSE,BJ,Williams,https://www.ourlads.com/ncaa-football-depth-charts/player/bj-williams/162046,RG,Offense,1,4,G,55,Pittsburgh,AAC,JR,,,,0,0,0,4,OFFENSIVE LINE,9,FALSE
-168547,"Cooper, Lyndon",FALSE,Lyndon,Cooper,https://www.ourlads.com/ncaa-football-depth-charts/player/lyndon-cooper/168547,C,Offense,1,2,C,56,Pittsburgh,AAC,RS SR/TR,,,North Carolina State,0,0,0,4,OFFENSIVE LINE,10,FALSE
-154217,"Baer, Ryan",FALSE,Ryan,Baer,https://www.ourlads.com/ncaa-football-depth-charts/player/ryan-baer/154217,RT,Offense,1,1,T,70,Pittsburgh,AAC,RS JR,,,,0,0,0,4,OFFENSIVE LINE,7,FALSE
-139808,"Persi, Jeff",FALSE,Jeff,Persi,https://www.ourlads.com/ncaa-football-depth-charts/player/jeff-persi/139808,LT,Offense,1,6,LT,78,Pittsburgh,AAC,RS SR/TR,Transfer,Michigan,,0,0,0,4,OFFENSIVE LINE,6,FALSE
-168569,"Holmes, Caleb",FALSE,Caleb,Holmes,https://www.ourlads.com/ncaa-football-depth-charts/player/caleb-holmes/168569,LG,Offense,2,2,LG,76,Pittsburgh,AAC,RS FR,,,,0,0,0,4,OFFENSIVE LINE,8,FALSE
-165877,"Ray, Tai",FALSE,Tai,Ray,https://www.ourlads.com/ncaa-football-depth-charts/player/tai-ray/165877,RG,Offense,2,3,G,67,Pittsburgh,AAC,RS SO,,,,0,0,0,4,OFFENSIVE LINE,9,FALSE
-165870,"Carretta, Ryan",FALSE,Ryan,Carretta,https://www.ourlads.com/ncaa-football-depth-charts/player/ryan-carretta/165870,C,Offense,2,1,C,71,Pittsburgh,AAC,RS SO,,,,0,0,0,4,OFFENSIVE LINE,10,FALSE
-157254,"Montgomery, Isaiah",FALSE,Isaiah,Montgomery,https://www.ourlads.com/ncaa-football-depth-charts/player/isaiah-montgomery/157254,LT,Offense,2,5,LT,72,Pittsburgh,AAC,RS JR,,,,0,0,0,4,OFFENSIVE LINE,6,FALSE
-154849,"Stanley, Kendall",FALSE,Kendall,Stanley,https://www.ourlads.com/ncaa-football-depth-charts/player/kendall-stanley/154849,RT,Offense,2,7,T,53,Pittsburgh,AAC,RS JR/TR,Transfer,Charlotte,,0,0,0,4,OFFENSIVE LINE,7,FALSE
-165864,"Brown, Jackson",FALSE,Jackson,Brown,https://www.ourlads.com/ncaa-football-depth-charts/player/jackson-brown/165864,RT,Offense,3,2,T,77,Pittsburgh,AAC,RS JR/TR,,,Pittsburgh,0,0,0,4,OFFENSIVE LINE,7,FALSE
-172867,"Cooley, Jiavani",FALSE,Jiavani,Cooley,https://www.ourlads.com/ncaa-football-depth-charts/player/jiavani-cooley/172867,LT,Offense,3,3,LT,51,Pittsburgh,AAC,RS FR,,,,0,0,0,4,OFFENSIVE LINE,6,FALSE
-176288,"Elnagmi, Akram",FALSE,Akram,Elnagmi,https://www.ourlads.com/ncaa-football-depth-charts/player/akram-elnagmi/176288,LT,Offense,4,4,LT,60,Pittsburgh,AAC,FR,,,,0,0,0,4,OFFENSIVE LINE,6,FALSE
-157253,"Scott, Jimmy",FALSE,Jimmy,Scott,https://www.ourlads.com/ncaa-football-depth-charts/player/jimmy-scott/157253,RDE,Defense,1,5,DE,44,Pittsburgh,AAC,RS JR,,,,0,0,0,5,DEFENSIVE LINE,12,FALSE
-165596,"Spires, Blaine",FALSE,Blaine,Spires,https://www.ourlads.com/ncaa-football-depth-charts/player/blaine-spires/165596,LDE,Defense,1,6,DE,10,Pittsburgh,AAC,GR/TR,Transfer,Utah State,Utah State,0,0,0,5,DEFENSIVE LINE,12,FALSE
-154223,"FitzSimmons, Sean",FALSE,Sean,FitzSimmons,https://www.ourlads.com/ncaa-football-depth-charts/player/sean-fitzsimmons/154223,LDT,Defense,1,2,DT,55,Pittsburgh,AAC,RS JR,,,,0,0,0,5,DEFENSIVE LINE,13,FALSE
-168568,"James, Nick",FALSE,Nick,James,https://www.ourlads.com/ncaa-football-depth-charts/player/nick-james/168568,RDT,Defense,1,3,DT,11,Pittsburgh,AAC,RS JR/TR,,,Indiana,0,0,0,5,DEFENSIVE LINE,13,FALSE
-165872,"Gracio, Maverick",FALSE,Maverick,Gracio,https://www.ourlads.com/ncaa-football-depth-charts/player/maverick-gracio/165872,RDE,Defense,2,3,DE,39,Pittsburgh,AAC,RS SO,,,,0,0,0,5,DEFENSIVE LINE,12,FALSE
-136954,"Temple, Nate",FALSE,Nate,Temple,https://www.ourlads.com/ncaa-football-depth-charts/player/nate-temple/136954,LDE,Defense,2,7,DE,6,Pittsburgh,AAC,RS SR,,,,0,0,0,5,DEFENSIVE LINE,12,FALSE
-168556,"Brewu, Francis",FALSE,Francis,Brewu,https://www.ourlads.com/ncaa-football-depth-charts/player/francis-brewu/168556,RDT,Defense,2,1,DT,95,Pittsburgh,AAC,SO,,,,0,0,0,5,DEFENSIVE LINE,13,FALSE
-162039,"Neal, Isaiah",FALSE,Isaiah,Neal,https://www.ourlads.com/ncaa-football-depth-charts/player/isaiah-neal/162039,LDT,Defense,2,4,DT,97,Pittsburgh,AAC,RS SO,,,,0,0,0,5,DEFENSIVE LINE,13,FALSE
-159929,"Moore, Jaeden",FALSE,Jaeden,Moore,https://www.ourlads.com/ncaa-football-depth-charts/player/jaeden-moore/159929,LDE,Defense,3,4,DE,56,Pittsburgh,AAC,RS SO/TR,Transfer,Oregon,,0,0,0,5,DEFENSIVE LINE,12,FALSE
-155791,"Zelinsky, Joey",FALSE,Joey,Zelinsky,https://www.ourlads.com/ncaa-football-depth-charts/player/joey-zelinsky/155791,RDE,Defense,3,8,DE,45,Pittsburgh,AAC,RS SR/TR,Transfer,Eastern Michigan,Eastern Michigan,0,0,0,5,DEFENSIVE LINE,12,FALSE
-172873,"Whittington, Jahsear",FALSE,Jahsear,Whittington,https://www.ourlads.com/ncaa-football-depth-charts/player/jahsear-whittington/172873,LDT,Defense,3,5,DT,25,Pittsburgh,AAC,RS FR,,,,0,0,0,5,DEFENSIVE LINE,13,FALSE
-172874,"Yuhas, Ty",FALSE,Ty,Yuhas,https://www.ourlads.com/ncaa-football-depth-charts/player/ty-yuhas/172874,RDT,Defense,3,6,DT,93,Pittsburgh,AAC,RS FR,,,,0,0,0,5,DEFENSIVE LINE,13,FALSE
-176286,"Anderson, JuJu",FALSE,JuJu,Anderson,https://www.ourlads.com/ncaa-football-depth-charts/player/juju-anderson/176286,RDE,Defense,4,1,DE,35,Pittsburgh,AAC,FR,,,,0,0,0,5,DEFENSIVE LINE,12,FALSE
-168557,"Crothers, Zach",FALSE,Zach,Crothers,https://www.ourlads.com/ncaa-football-depth-charts/player/zach-crothers/168557,LDE,Defense,4,2,DE,53,Pittsburgh,AAC,RS FR,,,,0,0,0,5,DEFENSIVE LINE,12,FALSE
-165867,"Biles, Rasheem",FALSE,Rasheem,Biles,https://www.ourlads.com/ncaa-football-depth-charts/player/rasheem-biles/165867,MONEY,Defense,1,1,LB,31,Pittsburgh,AAC,JR,,,,0,0,0,6,LINEBACKERS,16,FALSE
-162037,"Lovelace, Braylan",FALSE,Braylan,Lovelace,https://www.ourlads.com/ncaa-football-depth-charts/player/braylan-lovelace/162037,MLB,Defense,1,10,MLB,0,Pittsburgh,AAC,JR,,,,0,0,0,6,LINEBACKERS,16,FALSE
-150776,"Lapi, Nick",FALSE,Nick,Lapi,https://www.ourlads.com/ncaa-football-depth-charts/player/nick-lapi/150776,MONEY,Defense,2,7,LB,59,Pittsburgh,AAC,RS SR,,,,0,0,0,6,LINEBACKERS,16,FALSE
-168562,"Marcelin, Jeremiah",FALSE,Jeremiah,Marcelin,https://www.ourlads.com/ncaa-football-depth-charts/player/jeremiah-marcelin/168562,MLB,Defense,2,11,MLB,32,Pittsburgh,AAC,SO,,,,0,0,0,6,LINEBACKERS,16,FALSE
-145281,"DelGaudio, Luke",FALSE,Luke,DelGaudio,https://www.ourlads.com/ncaa-football-depth-charts/player/luke-delgaudio/145281,MONEY,Defense,3,4,LB,29,Pittsburgh,AAC,RS SR,,,,0,0,0,6,LINEBACKERS,16,FALSE
-176296,"Thompson, Justin",FALSE,Justin,Thompson,https://www.ourlads.com/ncaa-football-depth-charts/player/justin-thompson/176296,MLB,Defense,3,12,MLB,54,Pittsburgh,AAC,FR,,,,0,0,0,6,LINEBACKERS,16,FALSE
-159105,"Foster, Drew",FALSE,Drew,Foster,https://www.ourlads.com/ncaa-football-depth-charts/player/drew-foster/159105,MLB,Defense,4,5,MLB,51,Pittsburgh,AAC,RS JR,,,,0,0,0,6,LINEBACKERS,16,FALSE
-159608,"Ibrahim, Abe",FALSE,Abe,Ibrahim,https://www.ourlads.com/ncaa-football-depth-charts/player/abe-ibrahim/159608,MONEY,Defense,4,6,LB,52,Pittsburgh,AAC,RS JR,,,,0,0,0,6,LINEBACKERS,16,FALSE
-140626,"Battle, Rashad",FALSE,Rashad,Battle,https://www.ourlads.com/ncaa-football-depth-charts/player/rashad-battle/140626,RCB,Defense,1,1,CB,15,Pittsburgh,AAC,RS SR,,,,0,0,0,7,DEFENSIVE BACKS,17,FALSE
-168550,"Lynum, Tamon",FALSE,Tamon,Lynum,https://www.ourlads.com/ncaa-football-depth-charts/player/tamon-lynum/168550,LCB,Defense,1,4,CB,8,Pittsburgh,AAC,RS SR/TR,,,Nebraska,0,0,0,7,DEFENSIVE BACKS,17,FALSE
-157252,"Louis, Kyle",FALSE,Kyle,Louis,https://www.ourlads.com/ncaa-football-depth-charts/player/kyle-louis/157252,STAR,Defense,1,9,CB/S,9,Pittsburgh,AAC,RS JR,,,,0,0,0,7,DEFENSIVE BACKS,17,FALSE
-165868,"Brookins, Cruce",FALSE,Cruce,Brookins,https://www.ourlads.com/ncaa-football-depth-charts/player/cruce-brookins/165868,FS,Defense,1,4,FS,12,Pittsburgh,AAC,RS SO,,,,0,0,0,7,DEFENSIVE BACKS,18,FALSE
-150778,"McIntyre, Javon",FALSE,Javon,McIntyre,https://www.ourlads.com/ncaa-football-depth-charts/player/javon-mcintyre/150778,SS,Defense,1,8,SS,7,Pittsburgh,AAC,RS SR,,,,0,0,0,7,DEFENSIVE BACKS,19,FALSE
-165873,"Harrison, Shadarian",FALSE,Shadarian,Harrison,https://www.ourlads.com/ncaa-football-depth-charts/player/shadarian-harrison/165873,RCB,Defense,2,2,CB,21,Pittsburgh,AAC,RS SO,,,,0,0,0,7,DEFENSIVE BACKS,17,FALSE
-174737,"Murray, Rashan",FALSE,Rashan,Murray,https://www.ourlads.com/ncaa-football-depth-charts/player/rashan-murray/174737,LCB,Defense,2,6,CB,18,Pittsburgh,AAC,SR/TR,,,,0,0,0,7,DEFENSIVE BACKS,17,FALSE
-168571,"Lindsey, Cameron",FALSE,Cameron,Lindsey,https://www.ourlads.com/ncaa-football-depth-charts/player/cameron-lindsey/168571,STAR,Defense,2,8,CB/S,24,Pittsburgh,AAC,RS FR,,,,0,0,0,7,DEFENSIVE BACKS,17,FALSE
-165865,"Anderson, Jesse",FALSE,Jesse,Anderson,https://www.ourlads.com/ncaa-football-depth-charts/player/jesse-anderson/165865,SS,Defense,2,2,SS,16,Pittsburgh,AAC,RS SO,,,,0,0,0,7,DEFENSIVE BACKS,19,FALSE
-174738,"BainsMarquez, Kavir",FALSE,Kavir,BainsMarquez,https://www.ourlads.com/ncaa-football-depth-charts/player/kavir-bains-marquez/174738,FS,Defense,2,3,FS,20,Pittsburgh,AAC,RS SR/TR,,,,0,0,0,7,DEFENSIVE BACKS,18,FALSE
-176291,"Lee, Shawn",FALSE,Shawn,Lee,https://www.ourlads.com/ncaa-football-depth-charts/player/shawn-lee-jr./176291,RCB,Defense,3,3,CB,28,Pittsburgh,AAC,FR,,,,0,0,0,7,DEFENSIVE BACKS,17,FALSE
-168563,"Maynard, Nigel",FALSE,Nigel,Maynard,https://www.ourlads.com/ncaa-football-depth-charts/player/nigel-maynard/168563,LCB,Defense,3,5,CB,27,Pittsburgh,AAC,RS FR,,,,0,0,0,7,DEFENSIVE BACKS,17,FALSE
-161016,"Bonsu, Jayden",FALSE,Jayden,Bonsu,https://www.ourlads.com/ncaa-football-depth-charts/player/jayden-bonsu/161016,STAR,Defense,3,2,CB/S,19,Pittsburgh,AAC,RS SO/TR,Transfer,Ohio State,,0,0,0,7,DEFENSIVE BACKS,17,FALSE
-168573,"Bryant, Allen",FALSE,Allen,Bryant,https://www.ourlads.com/ncaa-football-depth-charts/player/allen-bryant/168573,FS,Defense,3,5,FS,26,Pittsburgh,AAC,RS FR,,,,0,0,0,7,DEFENSIVE BACKS,18,FALSE
-176289,"Guerrier, Josh",FALSE,Josh,Guerrier,https://www.ourlads.com/ncaa-football-depth-charts/player/josh-guerrier/176289,SS,Defense,3,7,SS,14,Pittsburgh,AAC,FR,,,,0,0,0,7,DEFENSIVE BACKS,19,FALSE
-172870,"Pritchard, Davion",FALSE,Davion,Pritchard,https://www.ourlads.com/ncaa-football-depth-charts/player/davion-pritchard/172870,LCB,Defense,4,7,CB,23,Pittsburgh,AAC,RS FR,,,,0,0,0,7,DEFENSIVE BACKS,17,FALSE
-168572,"Brewton, Davin",FALSE,Davin,Brewton,https://www.ourlads.com/ncaa-football-depth-charts/player/davin-brewton/168572,STAR,Defense,4,3,CB/S,37,Pittsburgh,AAC,RS FR,,,,0,0,0,7,DEFENSIVE BACKS,17,FALSE
-162034,"Amofa, Matthew",FALSE,Matthew,Amofa,https://www.ourlads.com/ncaa-football-depth-charts/player/matthew-amofa/162034,SS,Defense,4,1,SS,48,Pittsburgh,AAC,RS JR,,,,0,0,0,7,DEFENSIVE BACKS,19,FALSE
-165871,"Glenn, John",FALSE,John,Glenn,https://www.ourlads.com/ncaa-football-depth-charts/player/john-glenn/165871,FS,Defense,4,6,FS,41,Pittsburgh,AAC,RS SO,,,,0,0,0,7,DEFENSIVE BACKS,18,FALSE
 160651,"Singleton, Malachi",FALSE,Malachi,Singleton,https://www.ourlads.com/ncaa-football-depth-charts/player/malachi-singleton/160651,QB,Offense,2,6,QB,3,Purdue,AAC,RS SO/TR,Transfer,Arkansas,,0,0,0,1,QUARTERBACK,1,FALSE
 169539,"Chuba, Evans",FALSE,Evans,Chuba,https://www.ourlads.com/ncaa-football-depth-charts/player/evans-chuba/169539,QB,Offense,3,3,QB,1,Purdue,AAC,RS FR/TR,Transfer,Washington State,,0,0,0,1,QUARTERBACK,1,FALSE
 163602,"Meredith, Bennett",FALSE,Bennett,Meredith,https://www.ourlads.com/ncaa-football-depth-charts/player/bennett-meredith/163602,QB,Offense,4,4,QB,18,Purdue,AAC,RS JR/TR,,,Purdue,0,0,0,1,QUARTERBACK,1,FALSE
@@ -6294,54 +6124,6 @@ _ourLadsId,_name,_checkPlayer,_firstName,_lastName,_playerURL,_position,_positio
 170478,"Miles, Oliver",FALSE,Oliver,Miles,https://www.ourlads.com/ncaa-football-depth-charts/player/oliver-miles-iii/170478,NB,Defense,3,10,CB,15,Texas Tech,AAC,RS FR,,,,0,0,0,7,DEFENSIVE BACKS,17,FALSE
 161358,"RamonEdwards, Marcus",FALSE,Marcus,RamonEdwards,https://www.ourlads.com/ncaa-football-depth-charts/player/marcus-ramon-edwards/161358,SS,Defense,3,12,SS,42,Texas Tech,AAC,RS SO,,,,0,0,0,7,DEFENSIVE BACKS,19,FALSE
 168796,"Collins, Isaiah",FALSE,Isaiah,Collins,https://www.ourlads.com/ncaa-football-depth-charts/player/isaiah-collins/168796,RCB,Defense,4,3,CB,18,Texas Tech,AAC,RS FR,,,,0,0,0,7,DEFENSIVE BACKS,17,FALSE
-146930,"Gleason, Tucker",FALSE,Tucker,Gleason,https://www.ourlads.com/ncaa-football-depth-charts/player/tucker-gleason/146930,QB,Offense,1,5,QB,4,Toledo,MAC,RS SR/TR,,,,0,0,0,1,QUARTERBACK,1,FALSE
-155373,"Richter, John",FALSE,John,Richter,https://www.ourlads.com/ncaa-football-depth-charts/player/john-alan-richter/155373,QB,Offense,2,6,QB,6,Toledo,MAC,Alan RS JR,,,,0,0,0,1,QUARTERBACK,1,FALSE
-162690,"Walendzak, Connor",FALSE,Connor,Walendzak,https://www.ourlads.com/ncaa-football-depth-charts/player/connor-walendzak/162690,RB,Offense,3,8,RB,24,Toledo,MAC,JR,,,,0,0,0,2,RUNNING BACK,2,FALSE
-151752,"Shaw, Willie",FALSE,Willie,Shaw,https://www.ourlads.com/ncaa-football-depth-charts/player/willie-shaw-iii/151752,RB,Offense,4,7,RB,32,Toledo,MAC,RS SR,,,,0,0,0,2,RUNNING BACK,2,FALSE
-158642,"Holley, Eric",FALSE,Eric,Holley,https://www.ourlads.com/ncaa-football-depth-charts/player/eric-holley-iii/158642,WR-X,Offense,1,5,WR,81,Toledo,MAC,RS JR,,,,0,0,0,3,WR,4,FALSE
-158644,"Vandeross, Junior",FALSE,Junior,Vandeross,https://www.ourlads.com/ncaa-football-depth-charts/player/junior-vandeross-iii/158644,WR-SL,Offense,1,8,WR,2,Toledo,MAC,SR,,,,0,0,0,3,WR,4,FALSE
-78635,"Crosby, Terrell",FALSE,Terrell,Crosby,https://www.ourlads.com/ncaa-football-depth-charts/player/terrell-crosby-jr./78635,WR-SL,Offense,2,3,WR,19,Toledo,MAC,RS JR/TR,,,Iowa State,0,0,0,3,WR,4,FALSE
-170406,"Lang, Zymarion",FALSE,Zymarion,Lang,https://www.ourlads.com/ncaa-football-depth-charts/player/zymarion-lang/170406,WR-X,Offense,2,6,WR,8,Toledo,MAC,SO,,,,0,0,0,3,WR,4,FALSE
-151757,"Zsiros, Thomas",FALSE,Thomas,Zsiros,https://www.ourlads.com/ncaa-football-depth-charts/player/thomas-zsiros/151757,WR-Z,Offense,2,10,WR,84,Toledo,MAC,RS SR,,,,0,0,0,3,WR,4,FALSE
-170400,"Braceful, Tashi",FALSE,Tashi,Braceful,https://www.ourlads.com/ncaa-football-depth-charts/player/tashi-braceful/170400,WR-Z,Offense,3,2,WR,14,Toledo,MAC,RS FR,,,,0,0,0,3,WR,4,FALSE
-159280,"Rusk, Cooper",FALSE,Cooper,Rusk,https://www.ourlads.com/ncaa-football-depth-charts/player/cooper-rusk/159280,WR-SL,Offense,3,7,WR,23,Toledo,MAC,RS JR,,,,0,0,0,3,WR,4,FALSE
-164340,"Willoughby, Jediyah",FALSE,Jediyah,Willoughby,https://www.ourlads.com/ncaa-football-depth-charts/player/jediyah-willoughby/164340,WR-X,Offense,3,9,WR,15,Toledo,MAC,RS SO,,,,0,0,0,3,WR,4,FALSE
-164344,"Allen, Julian",FALSE,Julian,Allen,https://www.ourlads.com/ncaa-football-depth-charts/player/julian-allen/164344,WR-SL,Offense,4,1,WR,21,Toledo,MAC,RS SO,,,,0,0,0,3,WR,4,FALSE
-162686,"Ezirim, CC",FALSE,CC,Ezirim,https://www.ourlads.com/ncaa-football-depth-charts/player/cc-ezirim/162686,TE,Offense,2,1,TE,85,Toledo,MAC,JR,,,,0,0,0,3.5,TE,5,FALSE
-151760,"Jones, Connor",FALSE,Connor,Jones,https://www.ourlads.com/ncaa-football-depth-charts/player/connor-jones/151760,TE,Offense,3,2,TE,34,Toledo,MAC,RS SR,,,,0,0,0,3.5,TE,5,FALSE
-155368,"Fouty, Carter",FALSE,Carter,Fouty,https://www.ourlads.com/ncaa-football-depth-charts/player/carter-fouty/155368,LG,Offense,1,1,LG,66,Toledo,MAC,RS SR/TR,,,Toledo,0,0,0,4,OFFENSIVE LINE,8,FALSE
-155375,"Spoth, Ethan",FALSE,Ethan,Spoth,https://www.ourlads.com/ncaa-football-depth-charts/player/ethan-spoth/155375,RG,Offense,1,3,G,72,Toledo,MAC,RS JR,,,,0,0,0,4,OFFENSIVE LINE,9,FALSE
-164336,"Rhett, Cole",FALSE,Cole,Rhett,https://www.ourlads.com/ncaa-football-depth-charts/player/cole-rhett/164336,RT,Offense,1,2,T,74,Toledo,MAC,RS SO,,,,0,0,0,4,OFFENSIVE LINE,7,FALSE
-159277,"Keane, Brian",FALSE,Brian,Keane,https://www.ourlads.com/ncaa-football-depth-charts/player/brian-keane/159277,C,Offense,2,2,C,64,Toledo,MAC,RS JR,,,,0,0,0,4,OFFENSIVE LINE,10,FALSE
-164341,"Zimmerly, Grant",FALSE,Grant,Zimmerly,https://www.ourlads.com/ncaa-football-depth-charts/player/grant-zimmerly/164341,RG,Offense,2,4,G,63,Toledo,MAC,RS SO,,,,0,0,0,4,OFFENSIVE LINE,9,FALSE
-159274,"Gales, Stephen",FALSE,Stephen,Gales,https://www.ourlads.com/ncaa-football-depth-charts/player/stephen-gales/159274,LT,Offense,2,1,LT,65,Toledo,MAC,RS JR,,,,0,0,0,4,OFFENSIVE LINE,6,FALSE
-79732,"Traore, Ibrahim",FALSE,Ibrahim,Traore,https://www.ourlads.com/ncaa-football-depth-charts/player/ibrahim-traore/79732,RT,Offense,2,3,T,55,Toledo,MAC,RS SR/TR,,,Penn State,0,0,0,4,OFFENSIVE LINE,7,FALSE
-155366,"Davis, Malachi",FALSE,Malachi,Davis,https://www.ourlads.com/ncaa-football-depth-charts/player/malachi-davis/155366,DE,Defense,1,7,DE,93,Toledo,MAC,RS JR,,,,0,0,0,5,DEFENSIVE LINE,12,FALSE
-151759,"Carter, Esean",FALSE,Esean,Carter,https://www.ourlads.com/ncaa-football-depth-charts/player/esean-carter/151759,DT,Defense,1,1,DT,90,Toledo,MAC,RS SR,,,,0,0,0,5,DEFENSIVE LINE,13,FALSE
-141990,"Poynter, Martez",FALSE,Martez,Poynter,https://www.ourlads.com/ncaa-football-depth-charts/player/martez-poynter/141990,NT,Defense,1,3,NT,59,Toledo,MAC,RS SR,,,,0,0,0,5,DEFENSIVE LINE,14,FALSE
-170401,"Dunn, Anthony",FALSE,Anthony,Dunn,https://www.ourlads.com/ncaa-football-depth-charts/player/anthony-dunn-jr./170401,DE,Defense,2,8,DE,58,Toledo,MAC,SR/TR,,,Florida A&M,0,0,0,5,DEFENSIVE LINE,12,FALSE
-151749,"Peters, Jeremiah",FALSE,Jeremiah,Peters,https://www.ourlads.com/ncaa-football-depth-charts/player/jeremiah-peters/151749,EDGE,Defense,2,11,DE/LB,46,Toledo,MAC,RS SR,,,,0,0,0,5,DEFENSIVE LINE,12,FALSE
-147814,"Ray, Doran",FALSE,Doran,Ray,https://www.ourlads.com/ncaa-football-depth-charts/player/doran-ray-jr./147814,NT,Defense,2,4,NT,97,Toledo,MAC,RS SR,,,,0,0,0,5,DEFENSIVE LINE,14,FALSE
-164337,"Shamma, Laith",FALSE,Laith,Shamma,https://www.ourlads.com/ncaa-football-depth-charts/player/laith-shamma/164337,DT,Defense,2,5,DT,91,Toledo,MAC,RS SO,,,,0,0,0,5,DEFENSIVE LINE,13,FALSE
-162683,"Munnerlyn, Don",FALSE,Don,Munnerlyn,https://www.ourlads.com/ncaa-football-depth-charts/player/don-munnerlyn/162683,EDGE,Defense,3,10,DE/LB,17,Toledo,MAC,RS SR/TR,,,,0,0,0,5,DEFENSIVE LINE,12,FALSE
-173125,"Hazelwood, Carlos",FALSE,Carlos,Hazelwood,https://www.ourlads.com/ncaa-football-depth-charts/player/carlos-hazelwood/173125,DT,Defense,3,2,DT,98,Toledo,MAC,RS FR,,,,0,0,0,5,DEFENSIVE LINE,13,FALSE
-162682,"Ford, Travion",FALSE,Travion,Ford,https://www.ourlads.com/ncaa-football-depth-charts/player/travion-ford/162682,DE,Defense,4,9,DE,99,Toledo,MAC,RS SR/TR,,,,0,0,0,5,DEFENSIVE LINE,12,FALSE
-151748,"Ollison, Damon",FALSE,Damon,Ollison,https://www.ourlads.com/ncaa-football-depth-charts/player/damon-ollison-ii/151748,WLB,Defense,1,4,LB,37,Toledo,MAC,RS SR,,,,0,0,0,6,LINEBACKERS,16,FALSE
-164331,"DAppolonia, Chris",FALSE,Chris,DAppolonia,https://www.ourlads.com/ncaa-football-depth-charts/player/chris-dappolonia/164331,WLB,Defense,2,1,LB,49,Toledo,MAC,RS SO,,,,0,0,0,6,LINEBACKERS,16,FALSE
-170411,"Sherman, KVon",FALSE,KVon,Sherman,https://www.ourlads.com/ncaa-football-depth-charts/player/kvon-sherman/170411,MLB,Defense,2,5,MLB,38,Toledo,MAC,JR/TR,,,Hutchinson CC,0,0,0,6,LINEBACKERS,16,FALSE
-170419,"Gaston, Trae",FALSE,Trae,Gaston,https://www.ourlads.com/ncaa-football-depth-charts/player/trae-gaston/170419,MLB,Defense,3,2,MLB,50,Toledo,MAC,RS FR,,,,0,0,0,6,LINEBACKERS,16,FALSE
-173127,"Kamara, Ibraheem",FALSE,Ibraheem,Kamara,https://www.ourlads.com/ncaa-football-depth-charts/player/ibraheem-kamara/173127,WLB,Defense,3,3,LB,43,Toledo,MAC,RS FR,,,,0,0,0,6,LINEBACKERS,16,FALSE
-158640,"Bowers, Nasir",FALSE,Nasir,Bowers,https://www.ourlads.com/ncaa-football-depth-charts/player/nasir-bowers/158640,RCB,Defense,1,1,CB,21,Toledo,MAC,SR,,,,0,0,0,7,DEFENSIVE BACKS,17,FALSE
-155374,"Smith, Avery",FALSE,Avery,Smith,https://www.ourlads.com/ncaa-football-depth-charts/player/avery-smith/155374,LCB,Defense,1,6,CB,12,Toledo,MAC,SR,,,,0,0,0,7,DEFENSIVE BACKS,17,FALSE
-164330,"Awls, Braden",FALSE,Braden,Awls,https://www.ourlads.com/ncaa-football-depth-charts/player/braden-awls/164330,NB,Defense,1,1,CB,26,Toledo,MAC,JR,,,,0,0,0,7,DEFENSIVE BACKS,17,FALSE
-164328,"Dottin, Jaden",FALSE,Jaden,Dottin,https://www.ourlads.com/ncaa-football-depth-charts/player/jaden-dottin/164328,FS,Defense,1,2,FS,3,Toledo,MAC,RS SR/TR,,,,0,0,0,7,DEFENSIVE BACKS,18,FALSE
-158643,"McNeilWarren, Emmanuel",FALSE,Emmanuel,McNeilWarren,https://www.ourlads.com/ncaa-football-depth-charts/player/emmanuel-mcneil-warren/158643,SS,Defense,1,4,SS,7,Toledo,MAC,SR,,,,0,0,0,7,DEFENSIVE BACKS,19,FALSE
-155377,"Fuller, Andre",FALSE,Andre,Fuller,https://www.ourlads.com/ncaa-football-depth-charts/player/andre-fuller/155377,NB,Defense,2,2,CB,3,Toledo,MAC,RS SR/TR,,,,0,0,0,7,DEFENSIVE BACKS,17,FALSE
-170421,"McKinstry, Tyler",FALSE,Tyler,McKinstry,https://www.ourlads.com/ncaa-football-depth-charts/player/tyler-mckinstry/170421,RCB,Defense,2,4,CB,23,Toledo,MAC,SO,,,,0,0,0,7,DEFENSIVE BACKS,17,FALSE
-164334,"Holmes, Kaden",FALSE,Kaden,Holmes,https://www.ourlads.com/ncaa-football-depth-charts/player/kaden-holmes/164334,NB,Defense,3,3,CB,24,Toledo,MAC,RS SO,,,,0,0,0,7,DEFENSIVE BACKS,17,FALSE
-170408,"Miller, Hyajah",FALSE,Hyajah,Miller,https://www.ourlads.com/ncaa-football-depth-charts/player/hyajah-miller/170408,LCB,Defense,3,5,CB,11,Toledo,MAC,RS FR,,,,0,0,0,7,DEFENSIVE BACKS,17,FALSE
-166996,"Hohler, Dylan",FALSE,Dylan,Hohler,https://www.ourlads.com/ncaa-football-depth-charts/player/dylan-hohler/166996,SS,Defense,3,3,SS,39,Toledo,MAC,RS SO,,,,0,0,0,7,DEFENSIVE BACKS,19,FALSE
-164339,"Thompson, Nicholas",FALSE,Nicholas,Thompson,https://www.ourlads.com/ncaa-football-depth-charts/player/nicholas-thompson/164339,FS,Defense,3,5,FS,22,Toledo,MAC,RS SO,,,,0,0,0,7,DEFENSIVE BACKS,18,FALSE
 162704,"Crowder, Goose",FALSE,Goose,Crowder,https://www.ourlads.com/ncaa-football-depth-charts/player/goose-crowder/162704,QB,Offense,1,1,QB,9,Troy,MAC,RS SR/TR,,,,0,0,0,1,QUARTERBACK,1,FALSE
 156551,"Kilcrease, Tucker",FALSE,Tucker,Kilcrease,https://www.ourlads.com/ncaa-football-depth-charts/player/tucker-kilcrease/156551,QB,Offense,2,2,QB,10,Troy,MAC,RS JR,,,,0,0,0,1,QUARTERBACK,1,FALSE
 170266,"McCreary, Caleb",FALSE,Caleb,McCreary,https://www.ourlads.com/ncaa-football-depth-charts/player/caleb-mccreary/170266,QB,Offense,3,3,QB,11,Troy,MAC,RS FR,,,,0,0,0,1,QUARTERBACK,1,FALSE
