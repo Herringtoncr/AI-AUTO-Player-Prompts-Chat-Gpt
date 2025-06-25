@@ -1,7 +1,8 @@
 # config/config.yaml
 
 csv_path: csv/players3.csv
-output_folder: "C:\\Users\\Alien_Tator\\Deorovista Dropbox\\ChatGptPromptParser"
+output_folder: "C:\\Users\\itato\\Dropbox\\ChatGptPromptParser"
+status_folder: "C:\\Users\\itato\\Dropbox\\ChatGptPromptParser"
 initial_wait: 1
 typing_interval: 0.05
 press_enter_after: false
@@ -11,11 +12,17 @@ test_macro_only: false
 macros:
   PromptMaster:
     actions:
-      - press_key: "win+5"
+      - press_key: "win+3"
       - wait: 1
       - press_key: "ctrl+1"
       - wait: 1
-      - press_key: "ctrl+shift+O"
+      - mouse_click:
+          x: 33
+          y: 295              # Click  new chat
+      - wait: 4
+      - mouse_click:
+          x: 1372
+          y: 761              # Click  inside the chat
       - wait: 7
       - pyclip: "{{prompt}}"
       - wait: 0.5
@@ -69,4 +76,4 @@ macros:
       - wait: 1
       - press_key: "enter"
       - wait: 1
-      - press_key: "win+5"
+      - press_key: "win+3"
