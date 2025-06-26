@@ -29,72 +29,61 @@ OTHER_TXT      = os.path.join(
 )
 
 # ─── HELPERS ───────────────────────────────────────────────────────────────────
-def load_player_ids(path):
-    """Read your Players3.csv and return the set of all IDs."""
-    with open(path, newline="", encoding="utf-8") as f:
-        reader = csv.DictReader(f)
-        return {row["_ourLadsId"] for row in reader}
-
 def extract_id(filename):
-    """
-    From a name like First_Last_123456_Team_html.txt,
-    split on “_” and return the third element (the digits).
-    Returns '123456' or None if the filename doesn’t follow that pattern.
-    """
     parts = filename.split("_")
-    # parts == ["First", "Last", "123456", "Team", "html.txt"]
     if len(parts) >= 3 and parts[2].isdigit():
         return parts[2]
     return None
 
 def get_model_slug(path):
-    """
-    Read the file at `path`, look for data-message-model-slug="…",
-    and return whatever’s between the quotes, or None if not found.
-    """
-    # 1) Read the full contents of the file into one string
     with open(path, "r", encoding="utf-8", errors="ignore") as f:
         text = f.read()
-
-    # 2) The exact marker we’re searching for
     marker = 'data-message-model-slug="'
-
-    # 3) Find where that marker first appears
     start_idx = text.find(marker)
     if start_idx == -1:
-        return None            # marker not present at all
-
-    # 4) The real slug starts immediately after the marker
+        return None
     slug_start = start_idx + len(marker)
-
-    # 5) Find the next double-quote after slug_start
     slug_end = text.find('"', slug_start)
     if slug_end == -1:
-        return None            # no closing quote
-
-    # 6) Slice out just the slug text and return it
+        return None
     return text[slug_start:slug_end]
 
 # ─── MAIN ───────────────────────────────────────────────────────────────────────
 def main():
-    player_ids = load_player_ids(PLAYERS_CSV)
-    pending     = []  # (filename, reason)
-    other       = []  # filenames
+    # 1) Build an ordered list of IDs directly from Players3.csv
+    csv_path = PLAYERS_CSV if os.path.isabs(PLAYERS_CSV) \
+               else os.path.join(PROJECT_ROOT, PLAYERS_CSV)
+    ordered_ids = []
+    with open(csv_path, newline="", encoding="utf-8") as f:
+        reader = csv.DictReader(f)
+        for row in reader:
+            ordered_ids.append(row["_ourLadsId"])
 
-    # make sure we’re pointing at the right folder
+    pending = []  # will hold (filename, reason) in CSV order
+    other   = []  # will hold any files not matched to those IDs
+
+    # ensure the snippet folder exists
     if not os.path.isdir(TARGET_FOLDER):
         print(f"❌ Cannot find snippet folder: {TARGET_FOLDER}")
         return
 
-    for fn in os.listdir(TARGET_FOLDER):
-        fp = os.path.join(TARGET_FOLDER, fn)
-        if not os.path.isfile(fp):
+    # 2) List all files in the folder once
+    folder_files = [
+        fn for fn in os.listdir(TARGET_FOLDER)
+        if os.path.isfile(os.path.join(TARGET_FOLDER, fn))
+    ]
+
+    # 3) Iterate in the exact order of the CSV
+    for fid in ordered_ids:
+        # look for First_Last_<fid>_... .txt
+        pattern = re.compile(rf".*_{fid}_.*\.txt$")
+        matches = [fn for fn in folder_files if pattern.match(fn)]
+        if not matches:
+            pending.append((f"(ID {fid})", "missing file"))
             continue
 
-        fid = extract_id(fn)
-        if fid is None or fid not in player_ids:
-            other.append(fn)
-            continue
+        fn = matches[0]
+        fp = os.path.join(TARGET_FOLDER, fn)
 
         size = os.path.getsize(fp)
         if size < MIN_SIZE_BYTES:
@@ -105,17 +94,23 @@ def main():
         if slug != "o3":
             pending.append((fn, f"slug={slug or 'None'}"))
             continue
-        # else: it’s a good file, skip it
+        # else: good file, skip it
 
+    # ─── NEW: collect any “other” files not in pending ────────────────────────
+    processed = {fn for fn, _ in pending}
+    unmatched = sorted(set(folder_files) - processed)
+    other.extend(unmatched)
+
+    # ensure output folder exists (safe‐guard; folder already checked above)
     os.makedirs(TARGET_FOLDER, exist_ok=True)
 
-    # Overwrite the pending‐files CSV
+    # 4) Overwrite the pending‐files CSV
     with open(PENDING_CSV, "w", newline="", encoding="utf-8") as out:
         w = csv.writer(out)
         w.writerow(["filename", "reason"])
         w.writerows(pending)
 
-    # Overwrite the “other‐machine” list
+    # 5) Overwrite the “other‐machine” list
     with open(OTHER_TXT, "w", encoding="utf-8") as out:
         out.write("\n".join(other))
 
