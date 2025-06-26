@@ -2,7 +2,7 @@ import pyautogui
 import pyclip
 import time
 from automation.config_loader import config
-
+import random
 # Map generic key names to PyAutoGUI-recognized names
 KEY_MAP = {
     "win": "winleft",
@@ -31,8 +31,14 @@ def execute_macro(macro_name, file_name=None, prompt_text=None):
 
     for action in macro.get("actions", []):
         if "wait" in action:
-            secs = action["wait"]
-            print(f"⏳ Waiting for {secs}s")
+            wait_val = action["wait"]
+            # if it's a two-element list/tuple, choose a random integer in that range
+            if isinstance(wait_val, (list, tuple)) and len(wait_val) == 2:
+                secs = random.randint(wait_val[0], wait_val[1])
+                print(f"⏳ Random wait {secs}s (range {wait_val[0]}–{wait_val[1]})")
+            else:
+                secs = wait_val
+                print(f"⏳ Waiting for {secs}s")
             time.sleep(secs)
 
         elif "press_key" in action:
