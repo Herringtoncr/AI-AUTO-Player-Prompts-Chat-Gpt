@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 import check_download_status
+from scheduler import run_with_shift
 # 1) run the scanner to refresh pending_files_<host>.csv
 check_download_status.main()
 
@@ -153,4 +154,9 @@ def main():
     print("\n🚀 Pending processing complete!")
 
 if __name__ == '__main__':
-    main()
+    # 1) refresh your pending-files list
+    check_download_status.main()
+
+    # 2) then hand off control to the shift scheduler, which will
+    #    repeatedly invoke your main() loop under your 9h/1h-lunch policy
+    run_with_shift(main)
